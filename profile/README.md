@@ -2,7 +2,7 @@
 
 ![humane-pin-revival](https://github.com/user-attachments/assets/3907c5dc-7520-4b98-add2-7e6c17fef725)
 
-This initiative aims to restore functionality to the Humane AI Pin, which became inoperative after Humane Inc. discontinued its servers and AI services. By developing alternative solutions and providing documentation, I hope to enable AI Pin owners to continue using their devices.
+This initiative aims to restore functionality to the Humane AI Pin, which became inoperative after Humane Inc. discontinued its servers and AI services. By developing alternative solutions and providing documentation, I hope to enable AI Pin owners to continue using their devices after-all Ai Pin is just unique Android device!
 
 **Disclaimer:** This project is an independent effort and is not affiliated with or endorsed by Humane Inc.
 
@@ -17,3 +17,7 @@ This organization is an independent, community-led effort and is not affiliated 
 ## Note: 
 
 I don’t have the actual hardware yet—it’s difficult to find in my country. It’s sad to see such an innovative device die, so I decided to take matters into my own hands. If you can help me get my hands on the hardware, please reach out.
+
+# Important Links
+
+- [Humane Ai Pin Hardware & Software Specs](https://github.com/humane-pin/about)
