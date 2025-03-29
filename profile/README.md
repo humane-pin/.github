@@ -16,7 +16,7 @@ This organization is an independent, community-led effort and is not affiliated 
 
 ## Note: 
 
-I don’t have the actual hardware yet—it’s difficult to find in my country. It’s sad to see such an innovative device die, so I decided to take matters into my own hands. If you can help me get my hands on the hardware, please reach out.
+I don’t have the actual hardware yet—it’s difficult to find in my country. It’s sad to see such an innovative device die, so I decided to take matters into my own hands. If you can help me get my hands on the hardware, please reach out on my email - techyminati@outlook.com or on my [X/Twitter](https://x.com/techyminati)
 
 # Important Links
 
